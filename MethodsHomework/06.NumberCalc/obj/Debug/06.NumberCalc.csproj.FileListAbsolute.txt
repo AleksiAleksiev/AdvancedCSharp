@@ -1,0 +1,6 @@
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\bin\Debug\06.NumberCalc.exe.config
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\bin\Debug\06.NumberCalc.exe
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\bin\Debug\06.NumberCalc.pdb
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\obj\Debug\06.NumberCalc.csprojResolveAssemblyReference.cache
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\obj\Debug\06.NumberCalc.exe
+C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\MethodsHomework\06.NumberCalc\obj\Debug\06.NumberCalc.pdb
