@@ -1,5 +1,0 @@
-c:\users\lokset\documents\visual studio 2013\Projects\MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe.config
-c:\users\lokset\documents\visual studio 2013\Projects\MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.exe
-c:\users\lokset\documents\visual studio 2013\Projects\MethodsHomework\03.LargerThanNeighbours\bin\Debug\03.LargerThanNeighbours.pdb
-c:\users\lokset\documents\visual studio 2013\Projects\MethodsHomework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.exe
-c:\users\lokset\documents\visual studio 2013\Projects\MethodsHomework\03.LargerThanNeighbours\obj\Debug\03.LargerThanNeighbours.pdb
