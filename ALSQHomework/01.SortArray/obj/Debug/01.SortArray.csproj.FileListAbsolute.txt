@@ -1,6 +1,0 @@
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\bin\Debug\01.SortArray.exe.config
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\bin\Debug\01.SortArray.exe
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\bin\Debug\01.SortArray.pdb
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\obj\Debug\01.SortArray.csprojResolveAssemblyReference.cache
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\obj\Debug\01.SortArray.exe
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\01.SortArray\obj\Debug\01.SortArray.pdb

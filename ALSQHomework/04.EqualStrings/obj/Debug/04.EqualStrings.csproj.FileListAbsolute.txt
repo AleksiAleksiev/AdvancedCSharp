@@ -1,5 +1,0 @@
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\04.EqualStrings\bin\Debug\04.EqualStrings.exe.config
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\04.EqualStrings\bin\Debug\04.EqualStrings.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\04.EqualStrings\bin\Debug\04.EqualStrings.pdb
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\04.EqualStrings\obj\Debug\04.EqualStrings.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\04.EqualStrings\obj\Debug\04.EqualStrings.pdb

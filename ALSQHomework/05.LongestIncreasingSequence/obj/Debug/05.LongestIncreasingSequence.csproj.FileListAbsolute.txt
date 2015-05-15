@@ -1,6 +1,0 @@
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe.config
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\bin\Debug\05.LongestIncreasingSequence.pdb
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.csprojResolveAssemblyReference.cache
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\05.LongestIncreasingSequence\obj\Debug\05.LongestIncreasingSequence.pdb

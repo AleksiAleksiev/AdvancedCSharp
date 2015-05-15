@@ -1,6 +1,0 @@
-c:\users\lokset\documents\visual studio 2013\Projects\ALSQHomework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe.config
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\03.MinMaxAverage\bin\Debug\03.MinMaxAverage.pdb
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.csprojResolveAssemblyReference.cache
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.exe
-C:\Users\LoKSET\Documents\Visual Studio 2013\Projects\ALSQHomework\03.MinMaxAverage\obj\Debug\03.MinMaxAverage.pdb
